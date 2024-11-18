@@ -6,7 +6,7 @@ Assuming Train data is the market data for the purpose of comparing to the marke
 
 ## Jupyter Notebook (Python)
 
-https://github.com/Metastasiz/data_analysis/blob/main/stock_analysis.ipynb
+https://github.com/Metastasiz/data_analysis/blob/main/fi_data/stock_analysis_01/stock_analysis.ipynb
 
 ## Power BI
 
