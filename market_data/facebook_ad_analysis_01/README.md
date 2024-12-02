@@ -12,7 +12,7 @@ For more insights and details, please visit the processes below
 + [Jupyter Notebook - marketing_data_analysis.ipynb](https://github.com/Metastasiz/data_analysis/blob/main/market_data/facebook_ad_analysis_01/marketing_data_analysis.ipynb)
 
 ## Dashboard
-+ on hold
++ coming soon...
 
 ## Bi-weekly data analysis & data science project directory
 + https://github.com/Metastasiz/data_analysis
