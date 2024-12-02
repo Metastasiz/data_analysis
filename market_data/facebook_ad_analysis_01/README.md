@@ -5,7 +5,7 @@ For projects showcasing my Data Science & Analysis projects with collaboration w
 
 ## Facebook Ad Performance | Overview
 This analysis aims to analyse the performance of the Facebook ads performance with these metrics: CTR, CPA, CPC, and CVR.\
-Dataset can be obtained from Kaggle: https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign/data\
+Dataset can be obtained from Kaggle: https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign/data \
 For more insights and details, please visit the processes below
 
 ## ETL & EDA process
