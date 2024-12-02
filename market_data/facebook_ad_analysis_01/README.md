@@ -9,7 +9,7 @@ Dataset can be obtained from Kaggle: https://www.kaggle.com/datasets/madislemsal
 For more insights and details, please visit the processes below
 
 ## ETL & EDA process
-+ [marketing_data_analysis.ipynb](https://github.com/Metastasiz/data_analysis/blob/main/market_data/facebook_ad_analysis_01/marketing_data_analysis.ipynb)
++ [Jupyter Notebook - marketing_data_analysis.ipynb](https://github.com/Metastasiz/data_analysis/blob/main/market_data/facebook_ad_analysis_01/marketing_data_analysis.ipynb)
 
 ## Dashboard
 + on hold
