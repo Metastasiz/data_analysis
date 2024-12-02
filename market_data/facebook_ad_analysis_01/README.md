@@ -3,6 +3,11 @@ For projects showcasing my Data Science & Analysis projects with collaboration w
 + https://github.com/ProgrammingKoala/SUML/tree/optuna/optuna-pipeline
 + https://github.com/s22294/ASI_Electricity_Price
 
+## Facebook Ad Performance | Overview
+This analysis aims to analyse the performance of the Facebook ads performance with these metrics: CTR, CPA, CPC, and CVR.\
+Dataset can be obtained from Kaggle: https://www.kaggle.com/datasets/madislemsalu/facebook-ad-campaign/data\
+For more insights and details, please visit the processes below
+
 ## ETL & EDA process
 + https://github.com/Metastasiz/data_analysis/blob/main/market_data/facebook_ad_analysis_01/marketing_data_analysis.ipynb
 
