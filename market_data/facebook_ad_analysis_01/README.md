@@ -6,7 +6,7 @@ For projects showcasing my Data Science & Analysis projects with collaboration w
 ## ETL & EDA process
 + https://github.com/Metastasiz/data_analysis/blob/main/market_data/facebook_ad_analysis_01/marketing_data_analysis.ipynb
 
-## Tableau
+## Dashboard
 + on hold
 
 ## Bi-weekly data analysis & data science project directory
