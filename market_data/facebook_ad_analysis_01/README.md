@@ -1,5 +1,5 @@
 # This project aims to showcase my bi-weekly Data Analysis & Science project
-For projects showcasing my Data Science & Analysis projects with collaboration with others, please visit
+For projects showcasing my Data Analysis & Science projects with collaboration with others, please visit
 + https://github.com/ProgrammingKoala/SUML/tree/optuna/optuna-pipeline
 + https://github.com/s22294/ASI_Electricity_Price
 
