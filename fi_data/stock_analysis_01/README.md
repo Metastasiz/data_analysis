@@ -9,10 +9,10 @@ Splitting the stock data into Test and Train with ratio of 0.015, giving 7 Test 
 Assuming Train data is the market data for the purpose of comparing to the market data, e.g. Beta analysis
 
 ## ETL & EDA process
-+ https://github.com/Metastasiz/data_analysis/blob/main/fi_data/stock_analysis_01/stock_analysis.ipynb
++ [Jupyter Notebook - stock_analysis.ipynb](https://github.com/Metastasiz/data_analysis/blob/main/fi_data/stock_analysis_01/stock_analysis.ipynb)
 
 ## Dashboard
-+ https://github.com/Metastasiz/data_analysis/blob/main/fi_data/stock_analysis_01/stock_analysis.pbix
++ [Power BI - stock_analysis.pbix](https://github.com/Metastasiz/data_analysis/blob/main/fi_data/stock_analysis_01/stock_analysis.pbix)
 
 ## Bi-weekly data analysis & data science project directory
 + https://github.com/Metastasiz/data_analysis
